@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709957938 source:c:\k19-c\k19f2\findstringinstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709814648 source:c:\testfinal\bai5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

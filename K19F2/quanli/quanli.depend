@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1709275848 source:c:\k19-c\k19f2\quanli\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<unistd.h>
+	<windows.h>
+

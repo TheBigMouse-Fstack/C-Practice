@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1706576878 source:c:\cn_24_12_2023\tictactoe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

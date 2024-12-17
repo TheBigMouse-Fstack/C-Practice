@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706071102 source:c:\k19-c\k19f2\anhtanontap\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703866520 source:c:\k19-c\k19f2\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1703866534 source:c:\k19-c\k19f2\bt-anhdiep5\main.c
+	<stdio.h>
+	<stdlib.h>
+

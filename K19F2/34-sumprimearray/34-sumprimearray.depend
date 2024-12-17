@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705137929 source:c:\k19-c\k19f2\34-sumprimearray\main.c
+	<stdio.h>
+	<stdlib.h>
+

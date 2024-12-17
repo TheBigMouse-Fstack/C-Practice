@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705646121 source:c:\cpied\reversearray\main.c
+	<stdio.h>
+	<stdlib.h>
+

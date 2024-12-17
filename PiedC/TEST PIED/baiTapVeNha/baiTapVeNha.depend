@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706185795 source:c:\test pied\baitapvenha\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708601470 source:c:\cpied\43-arrayinarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

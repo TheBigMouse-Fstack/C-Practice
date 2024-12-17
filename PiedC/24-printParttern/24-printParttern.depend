@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702997628 source:c:\cpied\24-printparttern\main.c
+	<stdio.h>
+	<stdlib.h>
+

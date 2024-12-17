@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703667436 source:c:\cpied\checkprimefunc3\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701783003 source:c:\cpied\06-quadraticequation\main.c
+	<stdio.h>
+	<stdlib.h>
+

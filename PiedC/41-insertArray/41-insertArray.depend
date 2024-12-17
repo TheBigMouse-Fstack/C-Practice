@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706619559 source:c:\cpied\41-insertarray\main.c
+	<stdio.h>
+	<stdlib.h>
+

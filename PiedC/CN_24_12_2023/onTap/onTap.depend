@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705403246 source:c:\cn_24_12_2023\ontap\main.c
+	<stdio.h>
+	<stdlib.h>
+

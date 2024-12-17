@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705297929 source:c:\cn_24_12_2023\sapxepmang\main.c
+	<stdio.h>
+	<stdlib.h>
+

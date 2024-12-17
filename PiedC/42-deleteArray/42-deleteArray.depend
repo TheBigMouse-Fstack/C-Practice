@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708439654 source:c:\cpied\42-deletearray\main.c
+	<stdio.h>
+	<stdlib.h>
+

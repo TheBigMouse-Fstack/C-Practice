@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709784671 source:c:\cpied\kiemtra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

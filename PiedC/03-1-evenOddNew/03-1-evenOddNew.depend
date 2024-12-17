@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701399982 source:c:\cpied\03-1-evenoddnew\main.c
+	<stdio.h>
+	<stdlib.h>
+

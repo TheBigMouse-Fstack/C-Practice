@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702716473 source:c:\cpied\22-inductivev2\main.c
+	<stdio.h>
+	<stdlib.h>
+

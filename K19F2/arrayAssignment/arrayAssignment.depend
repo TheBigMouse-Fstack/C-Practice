@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706069365 source:c:\k19-c\k19f2\arrayassignment\main.c
+	<stdio.h>
+	<stdlib.h>
+

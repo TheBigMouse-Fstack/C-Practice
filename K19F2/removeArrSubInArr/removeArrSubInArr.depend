@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708086836 source:c:\k19-c\k19f2\removearrsubinarr\main.c
+	<stdio.h>
+	<stdlib.h>
+

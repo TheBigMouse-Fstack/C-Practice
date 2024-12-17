@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702389801 source:c:\cpied\14-delbuffer\main.c
+	<stdio.h>
+	<stdlib.h>
+

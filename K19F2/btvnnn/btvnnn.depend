@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706201411 source:c:\k19-c\k19f2\btvnnn\main.c
+	<stdio.h>
+	<stdlib.h>
+

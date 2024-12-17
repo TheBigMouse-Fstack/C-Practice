@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705380658 source:c:\cpied\baivenha\main.c
+	<stdio.h>
+	<stdlib.h>
+

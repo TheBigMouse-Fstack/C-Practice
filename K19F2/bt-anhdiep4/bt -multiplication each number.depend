@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703848964 source:c:\k19-c\k19f2\bt -multiplication each number\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1704205316 source:c:\k19-c\k19f2\bt-anhdiep4\main.c
+	<stdio.h>
+	<stdlib.h>
+

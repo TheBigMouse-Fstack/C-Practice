@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1701680255 source:c:\cpied\02-ifelse\main.c
+	<stdio.h>
+	<stdlib.h>
+

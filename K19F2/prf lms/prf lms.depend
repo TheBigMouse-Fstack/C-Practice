@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1708352813 source:c:\k19-c\k19f2\prf lms\main.c
+	<stdio.h>
+	<stdlib.h>
+

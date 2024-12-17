@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1705033772 source:c:\k19-c\k19f2\lms\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1705368709 source:d:\k19-c\k19f2\lms\main.c
+	<stdio.h>
+	<stdlib.h>
+

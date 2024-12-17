@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1705073149 source:c:\k19-c\k19f2\sumarreven\main.c
+	<stdio.h>
+	<stdlib.h>
+

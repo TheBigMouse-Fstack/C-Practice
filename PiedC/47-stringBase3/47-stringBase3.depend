@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709213352 source:c:\cpied\47-stringbase3\main.c
+	<stdio.h>
+	<stdlib.h>
+

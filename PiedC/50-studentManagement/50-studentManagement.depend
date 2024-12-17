@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710505964 source:c:\cpied\50-studentmanagement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
